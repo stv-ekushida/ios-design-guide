@@ -8,6 +8,7 @@
 ### 2. コーディング規約
 [・Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
 [・Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
+[・Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
 
 ### 3. プログラム設計ガイドライン
 TBD
