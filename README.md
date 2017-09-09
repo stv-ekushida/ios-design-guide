@@ -16,6 +16,10 @@
 [・Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
 [・Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
 
+#### (2) レビュー
+[・レビューの流れ](https://github.com/stv-ekushida/ios-design-guide/wiki/PR%E3%81%8B%E3%82%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%AE%8C%E4%BA%86%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) <br>
+・ラベル管理 <br>
+・マイルストーン管理
 
 ### 4. ユニットテストガイドライン
 [・iOS](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5DiOS%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%83%86%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
