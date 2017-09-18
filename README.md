@@ -14,11 +14,8 @@
  - Android
 
 #### (2) コーディング規約
- - iOS
-  - [Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
-  - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
-  
-- Android  
+ - [Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
+ - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
  - [Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
  - Java
 
@@ -28,6 +25,7 @@
 
 ### 3. ユニットテストガイドライン
  - [iOS](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5DiOS%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%83%86%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
+ - Android
 
 ### 4. 結合テストガイドライン（アプリ内結合）
 
