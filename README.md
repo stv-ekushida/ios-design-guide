@@ -16,7 +16,7 @@
  - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
  - [Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
 
-#### (3)  [ブランチ計画](https://github.com/stv-ekushida/ios-design-guide/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E8%A8%88%E7%94%BB)
+#### (3)  ブランチ計画
 
 #### (4) レビュー
  - [レビューの手順](https://github.com/stv-ekushida/ios-design-guide/wiki/PR%E3%81%8B%E3%82%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%AE%8C%E4%BA%86%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) <br>
