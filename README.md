@@ -11,11 +11,16 @@
 
 #### (1) プロジェクトガイドライン
  - [iOS](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5D-iOS%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
+ - Android
 
 #### (2) コーディング規約
- - [Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
- - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
+ - iOS
+  - [Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
+  - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
+  
+- Android  
  - [Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
+ - Java
 
 #### (3)  その他
  - ブランチ計画
