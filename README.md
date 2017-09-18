@@ -3,7 +3,8 @@
 ## Content Of Table
 
 ### 1. 設計ガイドライン
- - [外部設計](https://github.com/stv-ekushida/ios-design-guide/wiki/%E5%A4%96%E9%83%A8%E8%A8%AD%E8%A8%88) <br>
+ - 外部設計
+ - 内部設計
  - [プログラム設計](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5D-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E8%A8%AD%E8%A8%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
 
 ### 2. 実装ガイドライン
