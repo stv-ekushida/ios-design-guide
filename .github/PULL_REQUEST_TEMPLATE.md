@@ -3,7 +3,7 @@
 ## チケット番号
 [P_STANDARD-XXX](https://stventures.backlog.jp/view/P_STANDARD-XXX)
 
-## 設計書
+## 関連設計書
  - [ ] 機能一覧
  - [ ] 画面一覧
  - [ ] 画面遷移図
