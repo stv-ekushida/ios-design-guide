@@ -1,7 +1,7 @@
 ## 概要
 
 ## チケット番号
-[XXXX-0000](https://stventures.backlog.jp/view/XXXX-0000)
+[P_STANDARD-XXX](https://stventures.backlog.jp/view/P_STANDARD-XXX)
 
 ## 設計書
  - [ ] 機能一覧
