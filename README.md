@@ -24,6 +24,7 @@
  - Git運用方法　(  _ブランチルールを記載する_)
  - [ラベル管理](https://github.com/stv-ekushida/ios-design-guide/wiki/%E3%83%A9%E3%83%99%E3%83%AB%E9%81%8B%E7%94%A8%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB)
  - コードレビュー方針
+      - [PRテンプレート](https://github.com/stv-ekushida/ios-design-guide/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 ### 3. ユニットテストガイドライン
  - [iOS](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5DiOS%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%83%86%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
