@@ -40,7 +40,7 @@ _TBD_
  
   - [リリースノート](https://github.com/stv-ekushida/ios-design-guide/wiki/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88)  
   - リリースフロー
-      - 開発環境リリースフロー (Jenkinsビルド)
-      - 本番環境リリースフロー (Jenkinsビルド、タグうち)
+      - [開発環境リリースフロー](https://github.com/stv-ekushida/ios-design-guide/wiki/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%95%E3%83%AD%E3%83%BC)
+      - 本番環境リリースフロー (Jenkinsビルド、タグうち)
 
 #### (2) [課題管理](https://github.com/stv-ekushida/ios-design-guide/wiki/%E8%AA%B2%E9%A1%8C%E7%AE%A1%E7%90%86)
