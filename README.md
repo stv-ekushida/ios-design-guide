@@ -39,6 +39,6 @@ _TBD_
 #### (1) リリース計画
  
   - [リリースノート](https://github.com/stv-ekushida/ios-design-guide/wiki/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88)
-  - リリースフロー (Jenkinsビルド、タグうち)
+  - リリースフロー (Jenkinsビルド、タグうち)
 
 #### (2) [課題管理](https://github.com/stv-ekushida/ios-design-guide/wiki/%E8%AA%B2%E9%A1%8C%E7%AE%A1%E7%90%86)
