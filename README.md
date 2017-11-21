@@ -14,8 +14,9 @@
  - Android
 
 #### (2) コーディング規約
- - [Swift](https://github.com/SmartTechVentures/swift-style-guide) <br>
- - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)<br>
+ - [Swift](https://github.com/SmartTechVentures/swift-style-guide) 
+      - [SwiftLintルール](https://github.com/stv-ekushida/ios-design-guide/wiki/SwiftLint%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB)
+ - [Objective-C](https://github.com/SmartTechVentures/Objective-C-style-guide)
  - [Kotlin](https://github.com/SmartTechVentures/kotlin-style-guide)
  - Java
 
