@@ -34,6 +34,7 @@
 ### 4. テストガイドライン
  - 結合テスト
  - 総合テスト
+ - 受入テスト
 
 ### 5. リリース計画
   - [リリースノート](https://github.com/stv-ekushida/ios-design-guide/wiki/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88)  
