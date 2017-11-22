@@ -33,6 +33,9 @@
  - [iOS](https://github.com/stv-ekushida/ios-design-guide/wiki/%5BWIP%5DiOS%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%83%86%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
  - Android
  - APIモック(WireMoc)
+ 
+#### (5) その他
+ -  [証明書管理](https://github.com/stv-ekushida/ios-design-guide/wiki/%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%80%81%E3%83%97%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%99%BB%E9%8C%B2%E3%80%81%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB(fastlane))
 
 ### 4. テストガイドライン
  - 結合テスト
